@@ -1,7 +1,0 @@
-v 4
-file . "senial1.vhd" "197882e463a2c623b5236760a0292c09dada19a1" "20230522094717.364":
-  entity senoidal at 1( 0) + 0 on 47;
-  architecture senoidal_arq of senoidal at 39( 1150) + 0 on 48;
-file . "senial1_tb.vhd" "3398f211efa8ee8541b5400ca921cb3bea3b5125" "20230522094717.365":
-  entity senial1_tb at 1( 0) + 0 on 49;
-  architecture senial1_tb_arq of senial1_tb at 8( 104) + 0 on 50;

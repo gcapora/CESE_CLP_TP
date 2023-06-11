@@ -1,0 +1,59 @@
+$date
+  Sun Jun 11 02:53:57 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module cfa_seno_tb $end
+$var reg 1 ! reset_tb $end
+$var reg 8 " fase_tb[7:0] $end
+$var reg 8 # sine_out_tb[7:0] $end
+$scope module dut $end
+$var reg 1 $ reset_i $end
+$var reg 8 % fase_i[7:0] $end
+$var reg 8 & seno_o[7:0] $end
+$var reg 12 ' dato[11:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+1!
+b00000000 "
+b00000000 #
+1$
+b00000000 %
+b00000000 &
+b000000000000 '
+#50000000
+0!
+b10000000 #
+0$
+b10000000 &
+b100000000000 '
+#100000000
+b00001111 "
+b10101110 #
+b00001111 %
+b10101110 &
+b101011100000 '
+#200000000
+b11110000 "
+b01001111 #
+b11110000 %
+b01001111 &
+b010011110000 '
+#600000000
+b11111111 "
+b01111100 #
+b11111111 %
+b01111100 &
+b011111001101 '
