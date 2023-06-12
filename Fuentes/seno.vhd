@@ -1,4 +1,4 @@
--- Archivo: seno2.vhd
+-- Archivo: seno.vhd
 -- Autor:   Guillermo Caporaletti
 -- Resumen: NCO senoidal.
 --          Trabajo Final del curso de CLP, CESE, FIUBA, Co18.
@@ -13,7 +13,7 @@ entity seno is
     generic (
         BITS_DATO        : positive := 12;  -- Bits del valor-dato de salida
         BITS_MUESTRAS    : positive := 10;  -- Bits necesario para las N muestras
-        BITS_INCREMENTO  : positive := 25;  -- Bits del incremento I, tanto su parte entera como fraccional
+        BITS_INCREMENTO  : positive := 25;  -- Bits del incremento J
         BITS_CONTADOR    : positive := 30   -- Bits del contador del AF
     );
     
@@ -36,7 +36,7 @@ begin
     AF: entity work.acumulador
         generic map(
             N_BITS_MUESTRAS   => BITS_MUESTRAS,
-            I_BITS_INCREMENTO => BITS_INCREMENTO,
+            J_BITS_INCREMENTO => BITS_INCREMENTO,
             C_BITS_CONTADOR   => BITS_CONTADOR
         ) 
         port map(

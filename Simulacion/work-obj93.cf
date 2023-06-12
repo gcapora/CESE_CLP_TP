@@ -1,22 +1,22 @@
 v 4
-file . "seno_tb.vhd" "4f57920cde778c84793cfa7174ec4eec85878276" "20230611094421.248":
-  entity seno_tb at 1( 0) + 0 on 279;
-  architecture seno_tb_arq of seno_tb at 8( 101) + 0 on 280;
+file . "seno_tb.vhd" "4f57920cde778c84793cfa7174ec4eec85878276" "20230612144841.135":
+  entity seno_tb at 1( 0) + 0 on 295;
+  architecture seno_tb_arq of seno_tb at 8( 101) + 0 on 296;
 file . "cfa_seno_tb.vhd" "0048a260980b498c50bdbb8e1bc30cf53d40b41a" "20230611055357.598":
   entity cfa_seno_tb at 1( 0) + 0 on 89;
   architecture cfa_seno_tb_arq of cfa_seno_tb at 8( 105) + 0 on 90;
-file . "..\Fuentes\cfa_seno.vhd" "ba8e90d295759192f3401f755fce6fa782007503" "20230611094421.244":
-  entity cfa_seno at 7( 210) + 0 on 273;
-  architecture cfa_seno_arq of cfa_seno at 24( 851) + 0 on 274;
+file . "..\Fuentes\cfa_seno.vhd" "ba8e90d295759192f3401f755fce6fa782007503" "20230612144841.131":
+  entity cfa_seno at 7( 210) + 0 on 289;
+  architecture cfa_seno_arq of cfa_seno at 24( 851) + 0 on 290;
 file . "senial1_tb.vhd" "3398f211efa8ee8541b5400ca921cb3bea3b5125" "20230610191054.070":
   entity senial1_tb at 1( 0) + 0 on 59;
   architecture senial1_tb_arq of senial1_tb at 8( 104) + 0 on 60;
 file . "..\Fuentes\senial1.vhd" "197882e463a2c623b5236760a0292c09dada19a1" "20230610191054.069":
   entity senoidal at 1( 0) + 0 on 57;
   architecture senoidal_arq of senoidal at 39( 1150) + 0 on 58;
-file . "..\Fuentes\acumulador.vhd" "87780dafa6f0d6df13a767f843d54528e30450cc" "20230611094421.246":
-  entity acumulador at 7( 198) + 0 on 275;
-  architecture acumulador_arq of acumulador at 29( 1049) + 0 on 276;
-file . "..\Fuentes\seno.vhd" "7a49ec1a04fdd852d1e334b3915c863fc527e6b6" "20230611094421.247":
-  entity seno at 7( 175) + 0 on 277;
-  architecture seno_arq of seno at 30( 966) + 0 on 278;
+file . "..\Fuentes\acumulador.vhd" "82a29a3caedbc38b15d212564be0aa113df67f66" "20230612144841.133":
+  entity acumulador at 7( 198) + 0 on 291;
+  architecture acumulador_arq of acumulador at 26( 878) + 0 on 292;
+file . "..\Fuentes\seno.vhd" "b885d1fe80130836890c7189fa7d136e586b107f" "20230612144841.134":
+  entity seno at 7( 175) + 0 on 293;
+  architecture seno_arq of seno at 30( 966) + 0 on 294;
