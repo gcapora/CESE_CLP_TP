@@ -1,0 +1,12 @@
+
+{ 
+    crc :  782663404122957318  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto f6c9cee1824b4344974c0d878738a488 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot seno_tb_func_synth xil_defaultlib.seno_tb" , 
+    buildDate : "Apr  4 2018" , 
+    buildTime : "19:30:32" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2018.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/seno_tb_func_synth/xsimk.exe\"   \"xsim.dir/seno_tb_func_synth/obj/xsim_0.win64.obj\" \"xsim.dir/seno_tb_func_synth/obj/xsim_1.win64.obj\" \"C:\\Xilinx\\Vivado\\2018.1\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"C:\\Xilinx\\Vivado\\2018.1\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

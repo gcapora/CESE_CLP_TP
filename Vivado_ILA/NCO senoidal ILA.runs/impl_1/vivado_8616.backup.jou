@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue Jun 13 03:19:20 2023
+# Process ID: 8616
+# Current directory: C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Vivado_ILA/NCO senoidal ILA.runs/impl_1
+# Command line: vivado.exe -log seno_VIO_ILA.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seno_VIO_ILA.tcl -notrace
+# Log file: C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Vivado_ILA/NCO senoidal ILA.runs/impl_1/seno_VIO_ILA.vdi
+# Journal file: C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Vivado_ILA/NCO senoidal ILA.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source seno_VIO_ILA.tcl -notrace

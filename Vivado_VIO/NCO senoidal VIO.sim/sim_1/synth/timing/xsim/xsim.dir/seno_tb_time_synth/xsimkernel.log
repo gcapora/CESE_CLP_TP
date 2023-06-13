@@ -1,0 +1,7 @@
+Running: xsim.dir/seno_tb_time_synth/xsimk.exe -simmode gui -wdb seno_tb_time_synth.wdb -simrunnum 0 -socket 64831
+Design successfully loaded
+Design Loading Memory Usage: 6332 KB (Peak: 6332 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 14932 KB (Peak: 14932 KB)
+Simulation CPU Usage: 389 ms

@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../Fuentes/acumulador.vhd" \
+"../../../../../../Fuentes/cfa_seno.vhd" \
+"../../../../../../Fuentes/seno.vhd" \
+"../../../../../../Simulacion/seno_tb.vhd" \
+
+# Do not sort compile order
+nosort

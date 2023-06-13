@@ -1,0 +1,26 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Vivado_VIO/NCO senoidal VIO.sim/sim_1/synth/func/xsim/seno_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity acumulador
+INFO: [VRFC 10-307] analyzing entity cfa_seno
+INFO: [VRFC 10-307] analyzing entity vio_0_vio_v3_0_18_decoder
+INFO: [VRFC 10-307] analyzing entity vio_0_vio_v3_0_18_probe_in_one
+INFO: [VRFC 10-307] analyzing entity vio_0_vio_v3_0_18_probe_out_one
+INFO: [VRFC 10-307] analyzing entity vio_0_vio_v3_0_18_probe_out_one_0
+INFO: [VRFC 10-307] analyzing entity \vio_0_vio_v3_0_18_probe_out_one__parameterized0\
+INFO: [VRFC 10-307] analyzing entity vio_0_vio_v3_0_18_probe_width
+INFO: [VRFC 10-307] analyzing entity vio_0_xsdbs_v1_0_2_xsdbs
+INFO: [VRFC 10-307] analyzing entity seno
+INFO: [VRFC 10-307] analyzing entity vio_0_vio_v3_0_18_probe_out_all
+INFO: [VRFC 10-307] analyzing entity vio_0_vio_v3_0_18_vio
+INFO: [VRFC 10-307] analyzing entity vio_0
+INFO: [VRFC 10-307] analyzing entity seno_VIO
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Fuentes/acumulador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity acumulador
+WARNING: [VRFC 10-1193] overwriting existing primary unit acumulador [C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Fuentes/acumulador.vhd:11]
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Fuentes/cfa_seno.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cfa_seno
+WARNING: [VRFC 10-1193] overwriting existing primary unit cfa_seno [C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Fuentes/cfa_seno.vhd:11]
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Fuentes/seno.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity seno
+WARNING: [VRFC 10-1193] overwriting existing primary unit seno [C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Fuentes/seno.vhd:11]
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Simulacion/seno_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity seno_tb
