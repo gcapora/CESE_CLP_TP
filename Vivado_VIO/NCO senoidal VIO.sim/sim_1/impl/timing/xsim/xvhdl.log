@@ -1,8 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Fuentes/acumulador.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity acumulador
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Fuentes/cfa_seno.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity cfa_seno
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Fuentes/seno.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity seno
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/gcapo/Documents/CESE_docs/04 FPGA/TP/NCO_senoidal/Simulacion/seno_tb.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity seno_tb
